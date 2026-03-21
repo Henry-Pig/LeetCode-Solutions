@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0896-monotonic-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
