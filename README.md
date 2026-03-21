@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
