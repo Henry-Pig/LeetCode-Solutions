@@ -13,6 +13,7 @@
 | [0860-lemonade-change](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -71,6 +72,7 @@
 | [0066-plus-one](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Stack
@@ -98,4 +100,8 @@
 | ------- |
 | [0860-lemonade-change](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
