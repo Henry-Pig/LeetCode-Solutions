@@ -65,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1041-robot-bounded-in-circle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
