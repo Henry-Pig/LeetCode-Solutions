@@ -41,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
@@ -51,6 +52,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -83,6 +86,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
