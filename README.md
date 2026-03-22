@@ -73,6 +73,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
