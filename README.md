@@ -20,6 +20,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [0860-lemonade-change](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Geometry
 |  |
 | ------- |
