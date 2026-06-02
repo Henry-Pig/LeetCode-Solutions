@@ -21,6 +21,7 @@
 | [1672-richest-customer-wealth](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0860-lemonade-change](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
@@ -132,4 +136,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Henry-Pig/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
